@@ -4,6 +4,8 @@ This project is a simple web application that analyzes emotions in a text input.
 
 The app sends user‑provided text to a cloud‑based NLP emotion model and returns the scores for the main emotions—**anger, disgust, fear, joy, sadness**—along with a calculated **dominant emotion**.
 
+<img width="839" height="529" alt="image" src="https://github.com/user-attachments/assets/3d59db5c-93e2-4100-98e2-ec4db1c7f124" />
+
 ---
 
 ## Features
