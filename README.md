@@ -8,6 +8,17 @@ The app sends user‑provided text to a cloud‑based NLP emotion model and retu
 
 ---
 
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [How the App Works](#how-the-app-works)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Running the Tests](#running-the-tests)
+- [License Reference](#license-reference)
+- [Notes](#notes)
+  
 ## Features
 
 * Text input field for emotion analysis
